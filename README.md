@@ -1,9 +1,12 @@
-# Lab 34
-## Putting it All Together
+# Lab 41
+## React IV - Deployment
 ## Matthew Gebhart
 
+## Deploy with Vercel
+- vercel.json file updated to point to project
+- wsgi.py file updated with app = application to point to application
 
-# api-quick-start
+## api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework
 
