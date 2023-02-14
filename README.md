@@ -5,6 +5,8 @@
 ## Deploy with Vercel
 - vercel.json file updated to point to project
 - wsgi.py file updated with app = application to point to application
+## Deployed URL
+[Cookie-stand-api](https://cookie-stand-api-five.vercel.app/)
 
 ## api-quick-start
 
